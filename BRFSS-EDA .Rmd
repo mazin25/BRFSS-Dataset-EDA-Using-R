@@ -6,13 +6,14 @@ output: github_document
 ## Research Questions
 
 **Research Question 1:**<br />
-What is the general health status for people who live in private Residence compared to college housing ? And how does that differ among genders?
+<i>What is the general health status for people who live in private Residence compared to college housing ? And how does that differ among genders?</i>
 
 **Research Question 2:**<br />
-Do men have higher income level than women? And what is the most common income level among each gender?
+<i>Do men have higher income level than women? And what is the most common income level among each gender?</i>
 
 **Research Question 3:**<br />
-Does gender effect the average sleeping hours? And Is there any relation between sleeping hours and having depressive disorder?
+<i>Does gender effect the average sleeping hours? And Is there any relation between sleeping hours and having depressive disorder?</i>
+
 
 * * *
 
